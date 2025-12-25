@@ -1,4 +1,4 @@
-## Hello!! 🙂
+# Hello!! 🙂
 
 I'm an undergraduate student majoring in [Mechanical Engineering](https://me.snu.ac.kr/en/) at [Seoul National University](https://en.snu.ac.kr/index.html).
 
