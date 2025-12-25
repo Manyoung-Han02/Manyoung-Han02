@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello!! 🙂
+
+I'm an undergraduate student majoring in [Mechanical Engineering](https://me.snu.ac.kr/en/) at [Seoul National University](https://en.snu.ac.kr/index.html).
+
+My research interests lie in Robotics, with a specific focus on Spatial Intelligence, Perception and SLAM (Simultaneous Localization and Mapping). I aim to bridge the gap between how robots understand the real world and how they physically interact with it in dynamic environments.
+
+Explore my [Personal Page](https://manyoung-han02.github.io/) to check CV and Projects for more details and feel free to contact me!
+
 
 <!--
 **Manyoung-Han02/Manyoung-Han02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
