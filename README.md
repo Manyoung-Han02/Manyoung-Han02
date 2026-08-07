@@ -4,7 +4,7 @@ I'm an undergraduate student majoring in [Mechanical Engineering](https://me.snu
 
 My research interests lie in Mobile Robotics, with a specific focus on Spatial Intelligence and SLAM (Simultaneous Localization and Mapping). I aim to bridge the gap between how robots understand the real world and how they physically interact with it in dynamic environments.
 
-Explore my [Personal Page](https://manyoung-han02.github.io/) to check CV and Projects for more details and feel free to contact me!
+Explore my [Personal Page](https://manyoung-han02.github.io/) to check CV and Projects for more details. Feel free to contact me!
 
 
 <!--
